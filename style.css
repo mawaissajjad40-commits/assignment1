@@ -1,0 +1,17 @@
+.hero{
+background: linear-gradient(45deg,#4facfe,#00f2fe);
+padding:120px 0;
+}
+
+.card:hover{
+transform:scale(1.05);
+transition:0.3s;
+}
+
+.course-card{
+transition:0.3s;
+}
+
+.course-card:hover{
+transform:translateY(-10px);
+}
